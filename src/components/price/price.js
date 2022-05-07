@@ -1,5 +1,5 @@
 import './price.css';
-import star from '../imgs/star 1.png';
+import star from '../../imgs/star 1.png';
 
 function Price () {
   return (

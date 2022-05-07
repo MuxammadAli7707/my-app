@@ -1,6 +1,6 @@
 import './video.css';
-import iMac from '../imgs/imacOne.png';
-import iMacTwo from '../imgs/imacTwo.png';
+import iMac from '../../imgs/imacOne.png';
+import iMacTwo from '../../imgs/imacTwo.png';
 
 function Video () {
   return (

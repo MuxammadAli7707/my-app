@@ -1,7 +1,7 @@
 import './friends.css';
-import listIcon from '../imgs/list-icon.svg';
-import mentor from '../imgs/mentor-icon.svg';
-import heart from '../imgs/heart.svg';
+import listIcon from '../../imgs/list-icon.svg';
+import mentor from '../../imgs/mentor-icon.svg';
+import heart from '../../imgs/heart.svg';
 function Friends () {
   return (
     <div class="main-box">

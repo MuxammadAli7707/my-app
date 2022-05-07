@@ -7,7 +7,7 @@ import Friends from './components/Friends/friends';
 import CardDesc from './components/card-desc/card-desc';
 import Video from './components/videoss/video';
 import Price from './components/price/price';
-import Apps from './components/card-desc/apps/apps';
+import Apps from './components/apps/apps';
 import Footer from './components/footer/footer';
 
 const header = ReactDOM.createRoot(document.getElementById('header'));

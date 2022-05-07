@@ -1,11 +1,11 @@
 import './Hero.css';
-import heroImg from '../imgs/sinaw.png';
-import heroLamp from '../imgs/lamp.svg';
-import heroWhistle from '../imgs/whistle.svg';
-import heroElli from '../imgs/elli.png';
-import heroEllp from '../imgs/ellp.png';
-import heroBoy from '../imgs/boy.png';
-import heroBoyTwo from '../imgs/boy2.png';
+import heroImg from '../../imgs/sinaw.png';
+import heroLamp from '../../imgs/lamp.svg';
+import heroWhistle from '../../imgs/whistle.svg';
+import heroElli from '../../imgs/elli.png';
+import heroEllp from '../../imgs/ellp.png';
+import heroBoy from '../../imgs/boy.png';
+import heroBoyTwo from '../../imgs/boy2.png';
 function Hero () {
   return (
     <div class="site-inner">

@@ -1,7 +1,7 @@
 import './apps.css';
-import pllay from '../imgs/pllay.png';
-import store from '../imgs/store.png';
-import aps from '../imgs/apps.png';
+import pllay from '../../imgs/pllay.png';
+import store from '../../imgs/store.png';
+import aps from '../../imgs/apps.png';
 function Apps () {
   return (
     <div class="app-inner">

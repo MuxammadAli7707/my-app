@@ -139,7 +139,7 @@
 
 .premium::before {
   content: '';
-  background-image: url(../imgs/bgc.png);
+  background-image: url(../../imgs/bgc.png);
   width: 100px;
   height: 100px;
   background-repeat: no-repeat;

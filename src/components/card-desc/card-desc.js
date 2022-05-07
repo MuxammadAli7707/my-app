@@ -1,9 +1,9 @@
 import './card-desc.css';
-import bg from '../imgs/bg.png';
-import joey from '../imgs/joey.png';
-import figma from '../imgs/figma.png';
-import lap from '../imgs/lap.png';
-import android from '../imgs/android.png';
+import bg from '../../imgs/bg.png';
+import joey from '../../imgs/joey.png';
+import figma from '../../imgs/figma.png';
+import lap from '../../imgs/lap.png';
+import android from '../../imgs/android.png';
 function CardDesc () {
   return (
     <div class="card-box">

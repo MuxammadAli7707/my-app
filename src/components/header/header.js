@@ -1,5 +1,5 @@
 import './header.css';
-import logo from '../imgs/sinauw.svg'
+import logo from '../../imgs/sinauw.svg'
 function Header () {
   return (
     <header className="site-header">

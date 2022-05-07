@@ -1,5 +1,5 @@
 import './footer.css';
-import Logo from '../imgs/sinauw.svg';
+import Logo from '../../imgs/sinauw.svg';
 function Footer () {
   return (
     <div class="container">
