@@ -1,14 +1,14 @@
 import ReactDOM from 'react-dom/client';
 import React from 'react';
 import App from './App';
-import Header from './header/header';
-import Hero from './hero/Hero';
-import Friends from './Friends/friends';
-import CardDesc from './card-desc/card-desc';
-import Video from './videoss/video';
-import Price from './price/price';
-import Apps from './apps/apps';
-import Footer from './footer/footer';
+import Header from './components/header/header';
+import Hero from './components/hero/Hero';
+import Friends from './components/Friends/friends';
+import CardDesc from './components/card-desc/card-desc';
+import Video from './components/videoss/video';
+import Price from './components/price/price';
+import Apps from './components/card-desc/apps/apps';
+import Footer from './components/footer/footer';
 
 const header = ReactDOM.createRoot(document.getElementById('header'));
 header.render(<Header/>);
